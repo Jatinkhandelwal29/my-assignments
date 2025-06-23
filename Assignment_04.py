@@ -126,7 +126,7 @@ conn.execute("UPDATE students SET marks = 95 WHERE name = 'Jatin'")
 conn.commit()
 
 # Step 6: Delete a record
-conn.execute("DELETE FROM students WHERE name = 'Anjali'")
+conn.execute("DELETE FROM students WHERE name = 'Annu'")
 conn.commit()
 
 # Final Display after update & delete
