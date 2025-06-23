@@ -28,7 +28,7 @@ Write a  Python program to find the second smallest number in a list.
 
 
 # ans 1:-
-'''
+
 name = input("Enter student name: ")
 student_class = input("Enter student class: ")
 
@@ -105,7 +105,6 @@ while True:
         print("Invalid choice")
 
 
-'''
 
 # Ans:-3 
 
